@@ -1,0 +1,28 @@
+{
+  "name": "simple-data-json",
+  "version": "1.0.0",
+  "description": "A basic lightweight database for beginners",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keithjayce/simple-data-json.git"
+  },
+  "keywords": [
+    "simple",
+    "database",
+    "simple-database",
+    "database",
+    "json"
+  ],
+  "author": "@keithjayce",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/keithjayce/simple-data-json/issues"
+  },
+  "homepage": "https://github.com/keithjayce/simple-data-json#readme",
+  "dependencies": {
+  }
+}
