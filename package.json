@@ -1,6 +1,6 @@
 {
   "name": "simple-data-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A basic lightweight database for beginners",
   "main": "main.js",
   "scripts": {
@@ -24,5 +24,10 @@
   },
   "homepage": "https://github.com/keithjayce/simple-data-json#readme",
   "dependencies": {
+    "@harmansate/simple-sky": "^1.0.2",
+    "lz-string": "^1.5.0",
+    "simple-oprations-maths": "^0.0.2",
+    "simple-send-email-with-mailgun": "^1.0.1",
+    "smpl-cachejs": "^0.0.3"
   }
 }
